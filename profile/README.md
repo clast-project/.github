@@ -8,7 +8,7 @@ The goal of the project is to create a collection of high-performance C# librari
 |---------|-------------|--------|
 | **fsst** | Fast Static Symbol Table string compression | Preliminary implementation |
 | **alp** | Adaptive Lossless floating-Point compression | Preliminary implementation |
-| **fastlanes** | SIMD-friendly lightweight integer compression | Planned |
+| **[fastlanes](https://github.com/clast-project/fastlanes)** | SIMD-friendly lightweight integer compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.FastLanes) |
 | **database-decimal** | Decimal libraries compatible with the traditional "database" approach | Preliminary implementation |
 
 ## Goals
