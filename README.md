@@ -1,1 +1,31 @@
-# .github
+# clast-project
+
+The goal of the project is to create a collection of high-performance C# libraries focused on data processing, storage, and analytics.
+
+## Libraries
+
+| Library | Description | Status |
+|---------|-------------|--------|
+| **fsst** | Fast Static Symbol Table string compression | Preliminary implementation |
+| **alp** | Adaptive Lossless floating-Point compression | Preliminary implementation |
+| **fastlanes** | SIMD-friendly lightweight integer compression | Planned |
+| **database-decimal** | Decimal libraries compatible with the traditional "database" approach | Preliminary implementation |
+
+## Goals
+
+- **Performance**: Leverage modern .NET features (SIMD, `Span<T>`, `Memory<T>`) for maximum throughput.
+- **Correctness**: Fully tested against reference implementations and real-world datasets.
+- **Interoperability**: Compatible with the broader data ecosystem where appropriate.
+- **Simplicity**: Clean, idiomatic C# APIs that are easy to use and compose.
+
+## Getting Started
+
+Each library lives in its own repository under the [clast-project](https://github.com/clast-project) organization. Refer to each library's own README for installation and usage instructions.
+
+## Contributing
+
+This is a bit of an experiment and I'm not currently accepting contributions.
+
+## License
+
+All libraries in this organization are released under the [Apache License, Version 2.0](LICENSE) unless otherwise noted.
