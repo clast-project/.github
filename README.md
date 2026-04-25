@@ -1,23 +1,21 @@
 # clast-project
 
-A collection of high-performance C# libraries focused on data processing, storage, and analytics.
+The goal of the project is to create a collection of high-performance C# libraries focused on data processing, storage, and analytics.
 
 ## Libraries
 
 | Library | Description | Status |
 |---------|-------------|--------|
-| **Parquet** | Read and write Apache Parquet files | Planned |
-| **FSST** | Fast Static Symbol Table string compression | Planned |
-| **ALP** | Adaptive Lossless floating-Point compression | Planned |
-| **FastLanes** | SIMD-friendly lightweight integer compression | Planned |
-| **DataSketches** | Probabilistic data structures (HLL, quantiles, theta sketches) | Planned |
-| **Tables** | In-memory columnar table support | Planned |
+| **fsst** | Fast Static Symbol Table string compression | Preliminary implementation |
+| **alp** | Adaptive Lossless floating-Point compression | Preliminary implementation |
+| **fastlanes** | SIMD-friendly lightweight integer compression | Planned |
+| **database-decimal** | Decimal libraries compatible with the traditional "database" approach | Preliminary implementation |
 
 ## Goals
 
 - **Performance**: Leverage modern .NET features (SIMD, `Span<T>`, `Memory<T>`) for maximum throughput.
 - **Correctness**: Fully tested against reference implementations and real-world datasets.
-- **Interoperability**: Compatible with the broader Apache Arrow / Parquet ecosystem.
+- **Interoperability**: Compatible with the broader data ecosystem where appropriate.
 - **Simplicity**: Clean, idiomatic C# APIs that are easy to use and compose.
 
 ## Getting Started
@@ -26,8 +24,8 @@ Each library lives in its own repository under the [clast-project](https://githu
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before opening issues or pull requests.
+This is a bit of an experiment and I'm not currently accepting contributions.
 
 ## License
 
-All libraries in this organization are released under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise noted.
+All libraries in this organization are released under the [Apache License, Version 2.0](LICENSE) unless otherwise noted.
