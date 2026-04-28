@@ -6,10 +6,10 @@ The goal of the project is to create a collection of high-performance C# librari
 
 | Library | Description | Status |
 |---------|-------------|--------|
-| **[fsst](https://github.com/clast-project/fsst)** | Fast Static Symbol Table string compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.Fsst) |
+| **[fsst](https://github.com/clast-project/fsst)** | Fast Static Symbol Table string compression | [Version 0.1.2](https://www.nuget.org/packages/Clast.Fsst) |
 | **[alp](https://github.com/clast-project/alp)** | Adaptive Lossless floating-Point compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.Alp) |
 | **[fastlanes](https://github.com/clast-project/fastlanes)** | SIMD-friendly lightweight integer compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.FastLanes) |
-| **database-decimal** | Decimal libraries compatible with the traditional "database" approach | Preliminary implementation |
+| **[database-decimal](https://github.com/clast-project/database-decimal)** | Decimal libraries compatible with the traditional "database" approach | [Version 0.1.0](https://www.nuget.org/packages/Clast.DatabaseDecimal) |
 
 ## Goals
 
