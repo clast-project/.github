@@ -6,10 +6,11 @@ The goal of the project is to create a collection of high-performance C# librari
 
 | Library | Description | Status |
 |---------|-------------|--------|
-| **[fsst](https://github.com/clast-project/fsst)** | Fast Static Symbol Table string compression | [Version 0.1.2](https://www.nuget.org/packages/Clast.Fsst) |
 | **[alp](https://github.com/clast-project/alp)** | Adaptive Lossless floating-Point compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.Alp) |
-| **[fastlanes](https://github.com/clast-project/fastlanes)** | SIMD-friendly lightweight integer compression | [Version 0.1.0](https://www.nuget.org/packages/Clast.FastLanes) |
 | **[database-decimal](https://github.com/clast-project/database-decimal)** | Decimal libraries compatible with the traditional "database" approach | [Version 0.1.0](https://www.nuget.org/packages/Clast.DatabaseDecimal) |
+| **[fastlanes](https://github.com/clast-project/fastlanes)** | SIMD-friendly lightweight integer compression | [Version 0.1.1](https://www.nuget.org/packages/Clast.FastLanes) |
+| **[fsst](https://github.com/clast-project/fsst)** | Fast Static Symbol Table string compression | [Version 0.1.2](https://www.nuget.org/packages/Clast.Fsst) |
+| **[pcodec](https://github.com/clast-project/pcodec)** | Pco numeric compression format | [Version 0.1.0](https://www.nuget.org/packages/Clast.Pcodec) |
 
 ## Goals
 
