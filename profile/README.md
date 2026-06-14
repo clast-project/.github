@@ -32,18 +32,18 @@ Why: to provide a Newtonsoft-free, AOT-ready build of the Google.Cloud.Storage.V
 
 | Library | Replaces |
 |---------|----------|
-│ [Clast.Google.Apis.Core](https://www.nuget.org/packages/Clast.Google.Apis.Core) │ Google.Apis.Core │
-│ [Clast.Google.Apis](https://www.nuget.org/packages/Clast.Google.Apis) │ Google.Apis │
-│ [Clast.Google.Apis.Auth](https://www.nuget.org/packages/Clast.Google.Apis.Auth) │ Google.Apis.Auth │
-│ [Clast.Google.Apis.Storage.v1](https://www.nuget.org/packages/Clast.Google.Apis.Storage.v1) │ Google.Apis.Storage.v1 │
-│ [Clast.Google.Apis.Bigquery.v2](https://www.nuget.org/packages/Clast.Google.Apis.Bigquery.v2) │ Google.Apis.Bigquery.v2 │
-│ [Clast.Grpc.Auth](https://www.nuget.org/packages/Clast.Grpc.Auth) │ Grpc.Auth │
-│ [Clast.Google.Api.Gax](https://www.nuget.org/packages/Clast.Google.Api.Gax) │ Google.Api.Gax │
-│ [Clast.Google.Api.Gax.Rest](https://www.nuget.org/packages/Clast.Google.Api.Gax.Rest) │ Google.Api.Gax.Rest │
-│ [Clast.Google.Api.Gax.Grpc](https://www.nuget.org/packages/Clast.Google.Api.Gax.Gprc) │ Google.Api.Gax.Grpc │
-│ [Clast.Google.Cloud.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.Storage.V1) │ Google.Cloud.Storage.V1 │
-│ [Clast.Google.Cloud.BigQuery.V2](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.V2) │ Google.Cloud.BigQuery.V2 │
-│ [Clast.Google.Cloud.BigQuery.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.Storage.V1) │ Google.Cloud.BigQuery.Storage.V1 │
+│ **[Clast.Google.Apis.Core](https://www.nuget.org/packages/Clast.Google.Apis.Core)** │ Google.Apis.Core │
+│ **[Clast.Google.Apis](https://www.nuget.org/packages/Clast.Google.Apis)** │ Google.Apis │
+│ **[Clast.Google.Apis.Auth](https://www.nuget.org/packages/Clast.Google.Apis.Auth)** │ Google.Apis.Auth │
+│ **[Clast.Google.Apis.Storage.v1](https://www.nuget.org/packages/Clast.Google.Apis.Storage.v1)** │ Google.Apis.Storage.v1 │
+│ **[Clast.Google.Apis.Bigquery.v2](https://www.nuget.org/packages/Clast.Google.Apis.Bigquery.v2)** │ Google.Apis.Bigquery.v2 │
+│ **[Clast.Grpc.Auth](https://www.nuget.org/packages/Clast.Grpc.Auth)** │ Grpc.Auth │
+│ **[Clast.Google.Api.Gax](https://www.nuget.org/packages/Clast.Google.Api.Gax)** │ Google.Api.Gax │
+│ **[Clast.Google.Api.Gax.Rest](https://www.nuget.org/packages/Clast.Google.Api.Gax.Rest)** │ Google.Api.Gax.Rest │
+│ **[Clast.Google.Api.Gax.Grpc](https://www.nuget.org/packages/Clast.Google.Api.Gax.Gprc)** │ Google.Api.Gax.Grpc │
+│ **[Clast.Google.Cloud.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.Storage.V1)** │ Google.Cloud.Storage.V1 │
+│ **[Clast.Google.Cloud.BigQuery.V2](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.V2)** │ Google.Cloud.BigQuery.V2 │
+│ **[Clast.Google.Cloud.BigQuery.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.Storage.V1)** │ Google.Cloud.BigQuery.Storage.V1 │
 
 ## Contributing
 
