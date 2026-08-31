@@ -2,7 +2,7 @@
 
 The goal of the project is to create a collection of high-performance C# libraries focused on data processing, storage, and analytics.
 
-## Libraries
+## Data-oriented Libraries
 
 | Library | Description | Status |
 |---------|-------------|--------|
@@ -12,17 +12,6 @@ The goal of the project is to create a collection of high-performance C# librari
 | **[fastlanes](https://github.com/clast-project/fastlanes)** | SIMD-friendly lightweight integer compression | [Version 0.2.0](https://www.nuget.org/packages/Clast.FastLanes) |
 | **[fsst](https://github.com/clast-project/fsst)** | Fast Static Symbol Table string compression | [Version 0.3.1](https://www.nuget.org/packages/Clast.Fsst) |
 | **[pcodec](https://github.com/clast-project/pcodec)** | Pco numeric compression format | [Version 0.2.0](https://www.nuget.org/packages/Clast.Pcodec) |
-
-## Goals
-
-- **Performance**: Leverage modern .NET features (SIMD, `Span<T>`, `Memory<T>`) for maximum throughput.
-- **Correctness**: Fully tested against reference implementations and real-world datasets.
-- **Interoperability**: Compatible with the broader data ecosystem where appropriate.
-- **Simplicity**: Clean, idiomatic C# APIs that are easy to use and compose.
-
-## Getting Started
-
-Each library lives in its own repository under the [clast-project](https://github.com/clast-project) organization. Refer to each library's own README for installation and usage instructions.
 
 ## Forked Google Libraries
 
@@ -44,6 +33,17 @@ Why: to provide Newtonsoft-free, AOT-ready builds of the Google.Cloud.Storage.V1
 | **[Clast.Google.Cloud.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.Storage.V1)** | Google.Cloud.Storage.V1 |
 | **[Clast.Google.Cloud.BigQuery.V2](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.V2)** | Google.Cloud.BigQuery.V2 |
 | **[Clast.Google.Cloud.BigQuery.Storage.V1](https://www.nuget.org/packages/Clast.Google.Cloud.BigQuery.Storage.V1)** | Google.Cloud.BigQuery.Storage.V1 |
+
+## Goals
+
+- **Performance**: Leverage modern .NET features (SIMD, `Span<T>`, `Memory<T>`) for maximum throughput.
+- **Correctness**: Fully tested against reference implementations and real-world datasets.
+- **Interoperability**: Compatible with the broader data ecosystem where appropriate.
+- **Simplicity**: Clean, idiomatic C# APIs that are easy to use and compose.
+
+## Getting Started
+
+Each library lives in its own repository under the [clast-project](https://github.com/clast-project) organization. Refer to each library's own README for installation and usage instructions.
 
 ## Contributing
 
